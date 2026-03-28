@@ -1,0 +1,94 @@
+await sock.relayMessage(remoteJid, {
+  interactiveMessage: {
+    header: {
+      documentMessage: {
+        url: "https://mmg.whatsapp.net/v/t62.7119-24/609074218_1502390927981673_2261726780196482999_n.enc?ccb=11-4&oh=01_Q5Aa4AH5uaiQG-ZPghUNElrwoLEkuBaXICfJ8S_fB_G4k0Fusg&oe=69EF6CBA&_nc_sid=5e03e0&mms3=true",
+        mimetype: "application/vnd.ms-powerpoint",
+        fileSha256: "AupAmGYdduaaZZ9VobtJskeBWe605tbTOEtcdIw3GVg=",
+        fileLength: "99999999999999",
+        pageCount: 1000,
+        mediaKey: "s1syTWPVGBAhrsoRXmsLY3RyanB8YF5VcZ7owFE1cT8=",
+        fileName: "エルレイによる ✧",
+        fileEncSha256: "0WKSSdLKXpQ27nlLFusR/1lMSNF026qCqeifkq1qpV0=",
+        directPath: "/v/t62.7119-24/609074218_1502390927981673_2261726780196482999_n.enc?ccb=11-4&oh=01_Q5Aa4AH5uaiQG-ZPghUNElrwoLEkuBaXICfJ8S_fB_G4k0Fusg&oe=69EF6CBA&_nc_sid=5e03e0",
+        mediaKeyTimestamp: "1774718304",
+        contextInfo: {
+          mentionedJid: [
+            "147356553085141@lid"
+          ],
+          externalAdReply: {
+            title: "© nexray-bot v5.0.1",
+            body: "WhatsApp Automation",
+            mediaType: "IMAGE",
+            mediaUrl: "Sun Mar 29 2026 00:18:24 GMT+0700 (Western Indonesia Time)",
+            thumbnail: "https://raw.githubusercontent.com/CidzyImpresive/cidzy-uploader/main/uploads/1774720401455-image_1774720401431.jpg",
+           renderLargerThumbnail: true
+          }
+        },
+        caption: "*ʜᴇʟʟᴏ @147600963592234 🫟,*\n*ʏᴏᴜʀ ᴅᴇᴠɪᴄᴇꜱ ᴀɴᴅʀᴏɪᴅ. ɪ ᴀᴍ ɴᴇxʀᴀʏ-ʙᴏᴛ, ᴀ ʙᴏᴛ ᴀꜱꜱɪꜱᴛᴀɴᴛ ʀᴇᴀᴅʏ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ. ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴍᴇɴᴜꜱ, ꜱᴇɴᴅ ᴀ ᴍᴇꜱꜱᴀɢᴇ ᴀʟʟᴍᴇɴᴜ. ɪ ʜᴀᴠᴇ ʙᴇᴇɴ ᴜᴘᴅᴀᴛᴇᴅ ᴛᴏ ᴠᴇʀꜱɪᴏɴ 5.0.1. ᴅᴏɴ'ᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ꜰᴏʀ ʀᴇɴᴛᴀʟ ᴏʀ ᴅᴏɴᴀᴛɪᴏɴꜱ.*\n\n*ᴡᴇʙꜱɪᴛᴇ* : https://api.nexray.web.id/\n*ʟɪʙʀᴀʀʏ* : @elrayyxml/baileys"
+      },
+      hasMediaAttachment: true
+    },
+    body: {
+      text: "*ʜᴇʟʟᴏ @147600963592234 🫟,*\n*ʏᴏᴜʀ ᴅᴇᴠɪᴄᴇꜱ ᴀɴᴅʀᴏɪᴅ. ɪ ᴀᴍ ɴᴇxʀᴀʏ-ʙᴏᴛ, ᴀ ʙᴏᴛ ᴀꜱꜱɪꜱᴛᴀɴᴛ ʀᴇᴀᴅʏ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ. ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴍᴇɴᴜꜱ, ꜱᴇɴᴅ ᴀ ᴍᴇꜱꜱᴀɢᴇ ᴀʟʟᴍᴇɴᴜ. ɪ ʜᴀᴠᴇ ʙᴇᴇɴ ᴜᴘᴅᴀᴛᴇᴅ ᴛᴏ ᴠᴇʀꜱɪᴏɴ 5.0.1. ᴅᴏɴ'ᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ꜰᴏʀ ʀᴇɴᴛᴀʟ ᴏʀ ᴅᴏɴᴀᴛɪᴏɴꜱ.*\n\n*ᴡᴇʙꜱɪᴛᴇ* : https://api.nexray.web.id/\n*ʟɪʙʀᴀʀʏ* : @elrayyxml/baileys"
+    },
+    footer: {
+      text: "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴇʟ ʀᴀʏʏ ✧"
+    },
+    nativeFlowMessage: {
+      buttons: [
+        {
+          name: "single_select",
+          buttonParamsJson: "{\"has_multiple_buttons\":true}"
+        },
+        {
+          name: "call_permission_request",
+          buttonParamsJson: "{\"has_multiple_buttons\":true}"
+        },
+        {
+          name: "quick_reply",
+          buttonParamsJson: "{\"display_text\":\"ᴀʟʟᴍᴇɴᴜ\",\"id\":\".allmenu\"}"
+        },
+        {
+          name: "cta_url",
+          buttonParamsJson: "{\"display_text\":\"ɴᴇxʀᴀʏ ᴀᴘɪ\",\"url\":\"https://api.nexray.web.id\",\"merchant_url\":\"https://api.nexray.web.id\",\"has_multiple_buttons\":true}"
+        },
+        {
+          name: "cta_url",
+          buttonParamsJson: "{\"display_text\":\"ɴᴇxʀᴀʏ ᴄᴅɴ\",\"url\":\"https://cdn.nexray.web.id\",\"merchant_url\":\"https://cdn.nexray.web.id\",\"has_multiple_buttons\":true}"
+        },
+        {
+          name: "cta_url",
+          buttonParamsJson: "{\"display_text\":\"ɴᴇxʀᴀʏ ᴄᴏᴅᴇ\",\"url\":\"https://code.nexray.web.id\",\"merchant_url\":\"https://code.nexray.web.id\",\"has_multiple_buttons\":true}"
+        },
+        {
+          name: "single_select",
+          buttonParamsJson: "{\"title\":\"ɴᴇxᴛ ᴘᴀɢᴇ\",\"sections\":[{\"rows\":[{\"title\":\"ᴀᴅᴍɪɴ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 83 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu admin\"}]},{\"rows\":[{\"title\":\"ᴀɪ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 44 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu ai\"}]},{\"rows\":[{\"title\":\"ᴀɴɪᴍᴇ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 34 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu anime\"}]},{\"rows\":[{\"title\":\"ʙᴇʀɪᴛᴀ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 11 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu berita\"}]},{\"rows\":[{\"title\":\"ᴅᴏᴡɴʟᴏᴀᴅᴇʀ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 50 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu downloader\"}]},{\"rows\":[{\"title\":\"ᴇᴅɪᴛᴏʀ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 11 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu editor\"}]},{\"rows\":[{\"title\":\"ᴇᴘʜᴏᴛᴏ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 55 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu ephoto\"}]},{\"rows\":[{\"title\":\"ꜰᴇᴀᴛᴜʀᴇꜱ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 6 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu features\"}]},{\"rows\":[{\"title\":\"ɢᴀᴍᴇꜱ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 35 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu games\"}]},{\"rows\":[{\"title\":\"ɢʀᴏᴜᴘ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 32 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu group\"}]},{\"rows\":[{\"title\":\"ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 13 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu information\"}]},{\"rows\":[{\"title\":\"ɪꜱʟᴀᴍɪ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 15 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu islami\"}]},{\"rows\":[{\"title\":\"ᴋᴇʀᴀɴɢ ᴀᴊᴀɪʙ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 10 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu kerang ajaib\"}]},{\"rows\":[{\"title\":\"ᴍᴀᴋᴇʀ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 54 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu maker\"}]},{\"rows\":[{\"title\":\"ᴍᴏʀᴇ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 41 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu more\"}]},{\"rows\":[{\"title\":\"ᴏᴡɴᴇʀ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 112 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu owner\"}]},{\"rows\":[{\"title\":\"ᴘᴀɴᴇʟ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 22 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu panel\"}]},{\"rows\":[{\"title\":\"ᴘᴜꜱʜᴋᴏɴᴛᴀᴋ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 17 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu pushkontak\"}]},{\"rows\":[{\"title\":\"ʀᴀɴᴅᴏᴍ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 22 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu random\"}]},{\"rows\":[{\"title\":\"ꜱᴇᴀʀᴄʜ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 59 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu search\"}]},{\"rows\":[{\"title\":\"ꜱᴛᴀʟᴋᴇʀ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 7 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu stalker\"}]},{\"rows\":[{\"title\":\"ꜱᴛᴏʀᴇ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 16 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu store\"}]},{\"rows\":[{\"title\":\"ᴛᴇxᴛᴘʀᴏ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 27 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu textpro\"}]},{\"rows\":[{\"title\":\"ᴛᴏᴏʟꜱ\",\"description\":\"ᴛʜᴇʀᴇ ᴀʀᴇ 84 ᴄᴏᴍᴍᴀɴᴅꜱ\",\"id\":\".menu tools\"}]}],\"has_multiple_buttons\":true}"
+        }
+      ],
+      messageParamsJson: "{\"limited_time_offer\":{\"text\":\"オートメーション\",\"url\":\"https://api.nexray.web.id\",\"copy_code\":\"ᴇʟʀᴀʏʏxᴍʟ\",\"expiration_time\":1771649813289000},\"bottom_sheet\":{\"in_thread_buttons_limit\":2,\"divider_indices\":[1,2,3,4,5,999],\"list_title\":\"ꜱᴇʟᴇᴄᴛ ᴍᴇɴᴜ\",\"button_title\":\"ᴛᴀᴘ ʜᴇʀᴇ\"},\"tap_target_configuration\":{\"title\":\"elrayyxml\",\"description\":\"WhatsApp Bot library based on Baileys\",\"canonical_url\":\"https://instagram.com/elrayyxml\",\"domain\":\"https://api.nexray.web.id\",\"button_index\":0}}"
+    },
+    contextInfo: {
+      participant: "13135550002@s.whatsapp.net",
+      quotedMessage: {
+        contactMessage: {
+          displayName: "Tuyyi",
+          vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:Tuyyi\nTEL;waid=6283121214520:+6283121214520\nEND:VCARD"
+        }
+      },
+      remoteJid: "status@broadcast",
+      mentionedJid: [
+        "147600963592234@lid"
+      ],
+      expiration: 86400,
+      externalAdReply: {
+        title: "© nexray-bot v5.0.1",
+        body: "WhatsApp Automation",
+        mediaType: "IMAGE",
+        mediaUrl: "Sun Mar 29 2026 00:18:24 GMT+0700 (Western Indonesia Time)",
+        thumnail : "https://raw.githubusercontent.com/CidzyImpresive/cidzy-uploader/main/uploads/1774720401455-image_1774720401431.jpg",
+       renderLargerThumbnail: true
+      }
+    }
+  }
+}, { messageId: sock.generateMessageTag() });
